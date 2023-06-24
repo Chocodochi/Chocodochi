@@ -1,16 +1,43 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Yul%20Kim%20🇰🇷&fontSize=70&animation=twinkling)
+## 📷 **Social Media**
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chocodochii)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1f2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chcodochi)
 
-<!--
-**Chocodochi/Chocodochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 🛠 **Tech Stack** 🛠
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-0a5efc?style=for-the-badge&logo=macos&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js_-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-purple.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-fffff0.svg?style=for-the-badge&logo=markdown&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-fffff0?style=for-the-badge&logo=notion&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## ✨ **Stats**
+<br>
+
+
+[![http://mazassumnida.wtf/api/generate_badge?boj=chocodochii)%5D(https://solved.ac/chocodochii](http://mazassumnida.wtf/api/generate_badge?boj=chocodochii)](https://solved.ac/chocodochii)
+
+<br>
+
+![Yul Kim's Github Stats](https://github-readme-stats.vercel.app/api?username=chocodochii&count_private=true&show_icons=true)
+
+<br>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chocodochii&layout=compact)
+
+<br>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchocodochii&count_bg=%2385D570&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
