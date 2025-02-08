@@ -14,6 +14,7 @@
 ![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![PHP](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=PHP&logoColor=purple)
 
 <br>
 
