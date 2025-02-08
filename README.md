@@ -1,10 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Yul%20Kim%20🇰🇷&fontSize=70&animation=twinkling)
-## 📷 **Social Media**
-[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chocodochii)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1f2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chcodochi)
-
-<br>
-
 ## 🛠 **Tech Stack** 🛠
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
